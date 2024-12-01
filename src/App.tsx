@@ -65,7 +65,7 @@ function App() {
         {/* Header Section */}
         <section id="home" className="text-center py-5 vh-100">
           <div className="container">
-            <h2>Welcome to Vibe Women Store</h2>
+            <h2>Welcome to Vibe Women Store Beauty & fashion</h2>
             <p className="lead">Your one-stop shop for beauty & fashion</p>
           </div>
         </section>
