@@ -19,8 +19,9 @@ function App() {
                 width: "100px",
                 height: "auto",
               }}
-              alt="SVG example"
+              alt="SVGs example"
             />
+
 
             <button
               className="navbar-toggler"
